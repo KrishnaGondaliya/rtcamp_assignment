@@ -1,0 +1,1168 @@
+ body {
+	margin: 0;
+	padding: 0;
+	width:100%;
+	
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1345px;
+	 height: 1600px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #BG 
+{ 
+	 
+	 position: absolute; 
+	 width: 1671px;
+	 height: 1868px;
+	 z-index:1;
+} 
+
+ #footer 
+{ 
+	 left: 0px; 
+	 top: 1417px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 188px;
+	 z-index:2;
+} 
+
+ #Copyright2010StudioV 
+{ 
+	 left: 970px; 
+	 top: 1444px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 12px;
+	 z-index:3;
+} 
+
+ #SitePoweredbyWordpre 
+{ 
+	 left: 338px; 
+	 top: 1444px; 
+	 position: absolute; 
+	 width: 331px;
+	 height: 52px;
+	 z-index:4;
+} 
+
+ #Atveroeosetaccusamus 
+{ 
+	 left: 1036px; 
+	 top: 1284px; 
+	 position: absolute; 
+	 width: 231px;
+	 height: 38px;
+	 z-index:5;
+} 
+
+ #Shape4 
+{ 
+	 left: 969px; 
+	 top: 1116px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 61px;
+	 z-index:6;
+} 
+
+ #Layer35 
+{ 
+	 left: 976px; 
+	 top: 1124px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 47px;
+	 z-index:7;
+} 
+
+ #Sedutperspiciatisund 
+{ 
+	 left: 1036px; 
+	 top: 1201px; 
+	 position: absolute; 
+	 width: 219px;
+	 height: 54px;
+	 z-index:8;
+} 
+
+ #Shape4copy 
+{ 
+	 left: 969px; 
+	 top: 1199px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 60px;
+	 z-index:9;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 1037px; 
+	 top: 1119px; 
+	 position: absolute; 
+	 width: 228px;
+	 height: 40px;
+	 z-index:10;
+} 
+
+ #Shape4copy3 
+{ 
+	 left: 969px; 
+	 top: 1280px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 61px;
+	 z-index:11;
+} 
+
+ #Layer36 
+{ 
+	 left: 977px; 
+	 top: 1288px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 46px;
+	 z-index:12;
+} 
+
+ #Layer34 
+{ 
+	 left: 977px; 
+	 top: 1206px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 46px;
+	 z-index:13;
+} 
+
+ #NewsUpdates 
+{ 
+	 left: 970px; 
+	 top: 1079px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 18px;
+	 z-index:14;
+} 
+
+ #layer_15 
+{ 
+	 left: 972px; 
+	 top: 1103px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 1px;
+	 z-index:15;
+} 
+
+ #layer_16 
+{ 
+	 left: 972px; 
+	 top: 1185px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 1px;
+	 z-index:16;
+} 
+
+ #layer_17 
+{ 
+	 left: 972px; 
+	 top: 1266px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 1px;
+	 z-index:17;
+} 
+
+ #layer_18 
+{ 
+	 left: 972px; 
+	 top: 1351px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 1px;
+	 z-index:18;
+} 
+
+ #Shape3copy9 
+{ 
+	 left: 971px; 
+	 top: 1362px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 32px;
+	 z-index:19;
+} 
+
+ #Layer26copy2 
+{ 
+	 left: 972px; 
+	 top: 1363px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 15px;
+	 z-index:20;
+} 
+
+ #VisitourBlog 
+{ 
+	 left: 983px; 
+	 top: 1373px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 13px;
+	 z-index:21;
+} 
+
+ #copy7 
+{ 
+	 left: 1109px; 
+	 top: 1375px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 7px;
+	 z-index:22;
+} 
+
+ #Shape3copy 
+{ 
+	 left: 649px; 
+	 top: 1117px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 36px;
+	 z-index:23;
+} 
+
+ #yourname 
+{ 
+	 left: 666px; 
+	 top: 1134px; 
+	 position: absolute; 
+	 width: 58px;
+	 height: 7px;
+	 z-index:24;
+} 
+
+ #Shape3copy6 
+{ 
+	 left: 649px; 
+	 top: 1167px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 36px;
+	 z-index:25;
+} 
+
+ #youremailaddresscopy 
+{ 
+	 left: 666px; 
+	 top: 1181px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 10px;
+	 z-index:26;
+} 
+
+ #Shape3copy7 
+{ 
+	 left: 649px; 
+	 top: 1215px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 137px;
+	 z-index:27;
+} 
+
+ #message 
+{ 
+	 left: 666px; 
+	 top: 1232px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 7px;
+	 z-index:28;
+} 
+
+ #Shape3copy8 
+{ 
+	 left: 654px; 
+	 top: 1362px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 32px;
+	 z-index:29;
+} 
+
+ #Layer26copy 
+{ 
+	 left: 655px; 
+	 top: 1363px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 15px;
+	 z-index:30;
+} 
+
+ #Sendit 
+{ 
+	 left: 667px; 
+	 top: 1373px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 11px;
+	 z-index:31;
+} 
+
+ #copy6 
+{ 
+	 left: 792px; 
+	 top: 1375px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 7px;
+	 z-index:32;
+} 
+
+ #Contact 
+{ 
+	 left: 651px; 
+	 top: 1080px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 14px;
+	 z-index:33;
+} 
+
+ #layer_34 
+{ 
+	 left: 652px; 
+	 top: 1103px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 1px;
+	 z-index:34;
+} 
+
+ #Newsletter 
+{ 
+	 left: 336px; 
+	 top: 1244px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 12px;
+	 z-index:35;
+} 
+
+ #Shape3 
+{ 
+	 left: 334px; 
+	 top: 1316px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 36px;
+	 z-index:36;
+} 
+
+ #youremailaddress 
+{ 
+	 left: 350px; 
+	 top: 1330px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 10px;
+	 z-index:37;
+} 
+
+ #Atveroeosetaccusamus_0 
+{ 
+	 left: 336px; 
+	 top: 1280px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 26px;
+	 z-index:38;
+} 
+
+ #layer_39 
+{ 
+	 left: 337px; 
+	 top: 1266px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 1px;
+	 z-index:39;
+} 
+
+ #Shape3copy5 
+{ 
+	 left: 336px; 
+	 top: 1362px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 32px;
+	 z-index:40;
+} 
+
+ #Layer26 
+{ 
+	 left: 337px; 
+	 top: 1363px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 15px;
+	 z-index:41;
+} 
+
+ #Subscribe 
+{ 
+	 left: 349px; 
+	 top: 1373px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 11px;
+	 z-index:42;
+} 
+
+ #copy5 
+{ 
+	 left: 474px; 
+	 top: 1375px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 7px;
+	 z-index:43;
+} 
+
+ #SocialConnection 
+{ 
+	 left: 335px; 
+	 top: 1079px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 15px;
+	 z-index:44;
+} 
+
+ #Atveroeosetaccusamus_1 
+{ 
+	 left: 336px; 
+	 top: 1117px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 26px;
+	 z-index:45;
+} 
+
+ #layer_46 
+{ 
+	 left: 337px; 
+	 top: 1103px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 1px;
+	 z-index:46;
+} 
+
+ #Layer21 
+{ 
+	 left: 517px; 
+	 top: 1147px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 60px;
+	 z-index:47;
+} 
+
+ #Layer22 
+{ 
+	 left: 396px; 
+	 top: 1149px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:48;
+} 
+
+ #Layer23 
+{ 
+	 left: 458px; 
+	 top: 1149px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 57px;
+	 z-index:49;
+} 
+
+ #Layer24 
+{ 
+	 left: 334px; 
+	 top: 1149px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 57px;
+	 z-index:50;
+} 
+
+ #Layer25 
+{ 
+	 left: 580px; 
+	 top: 1150px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:51;
+} 
+
+ #break 
+{ 
+	 left: 336px; 
+	 top: 1036px; 
+	 position: absolute; 
+	 width: 929px;
+	 height: 8px;
+	 z-index:52;
+} 
+
+ #Layer20 
+{ 
+	 left: 335px; 
+	 top: 649px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 202px;
+	 z-index:53;
+} 
+
+ #Layer20copy 
+{ 
+	 left: 656px; 
+	 top: 649px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 202px;
+	 z-index:54;
+} 
+
+ #Layer20copy2 
+{ 
+	 left: 973px; 
+	 top: 649px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 202px;
+	 z-index:55;
+} 
+
+ #Shape2 
+{ 
+	 left: 328px; 
+	 top: 652px; 
+	 position: absolute; 
+	 width: 302px;
+	 height: 195px;
+	 z-index:56;
+} 
+
+ #Shape2copy 
+{ 
+	 left: 969px; 
+	 top: 652px; 
+	 position: absolute; 
+	 width: 302px;
+	 height: 195px;
+	 z-index:57;
+} 
+
+ #Shape2copy2 
+{ 
+	 left: 649px; 
+	 top: 652px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 195px;
+	 z-index:58;
+} 
+
+ #Layer17 
+{ 
+	 left: 657px; 
+	 top: 661px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 178px;
+	 z-index:59;
+} 
+
+ #Layer15 
+{ 
+	 left: 978px; 
+	 top: 661px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 178px;
+	 z-index:60;
+} 
+
+ #Layer19 
+{ 
+	 left: 337px; 
+	 top: 661px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 178px;
+	 z-index:61;
+} 
+
+ #Sedutperspiciatisund_0 
+{ 
+	 left: 335px; 
+	 top: 862px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 87px;
+	 z-index:62;
+} 
+
+ #Nemoenimipsamvolupta 
+{ 
+	 left: 656px; 
+	 top: 862px; 
+	 position: absolute; 
+	 width: 284px;
+	 height: 87px;
+	 z-index:63;
+} 
+
+ #Nequeporroquisquames 
+{ 
+	 left: 978px; 
+	 top: 862px; 
+	 position: absolute; 
+	 width: 274px;
+	 height: 87px;
+	 z-index:64;
+} 
+
+ #PerfectLogic 
+{ 
+	 left: 333px; 
+	 top: 601px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 21px;
+	 z-index:65;
+} 
+
+ #Allyouwantyourwebsit 
+{ 
+	 left: 333px; 
+	 top: 624px; 
+	 position: absolute; 
+	 width: 168px;
+	 height: 12px;
+	 z-index:66;
+} 
+
+ #CompleteSolution 
+{ 
+	 left: 654px; 
+	 top: 601px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 21px;
+	 z-index:67;
+} 
+
+ #Atoolanythingandever 
+{ 
+	 left: 654px; 
+	 top: 624px; 
+	 position: absolute; 
+	 width: 235px;
+	 height: 12px;
+	 z-index:68;
+} 
+
+ #UberCulture 
+{ 
+	 left: 975px; 
+	 top: 601px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 16px;
+	 z-index:69;
+} 
+
+ #FreshModernandreadyf 
+{ 
+	 left: 976px; 
+	 top: 624px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 12px;
+	 z-index:70;
+} 
+
+ #Layer20copy6 
+{ 
+	 left: 976px; 
+	 top: 965px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 40px;
+	 z-index:71;
+} 
+
+ #Shape3copy2 
+{ 
+	 left: 976px; 
+	 top: 969px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 32px;
+	 z-index:72;
+} 
+
+ #LearnMore 
+{ 
+	 left: 989px; 
+	 top: 980px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:73;
+} 
+
+ #copy2 
+{ 
+	 left: 1114px; 
+	 top: 982px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 7px;
+	 z-index:74;
+} 
+
+ #Layer20copy5 
+{ 
+	 left: 655px; 
+	 top: 965px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 40px;
+	 z-index:75;
+} 
+
+ #Shape3copy3 
+{ 
+	 left: 655px; 
+	 top: 969px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 32px;
+	 z-index:76;
+} 
+
+ #LearnMore_0 
+{ 
+	 left: 668px; 
+	 top: 980px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:77;
+} 
+
+ #copy3 
+{ 
+	 left: 793px; 
+	 top: 982px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 7px;
+	 z-index:78;
+} 
+
+ #Layer20copy4 
+{ 
+	 left: 338px; 
+	 top: 965px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 40px;
+	 z-index:79;
+} 
+
+ #Shape3copy4 
+{ 
+	 left: 334px; 
+	 top: 969px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 32px;
+	 z-index:80;
+} 
+
+ #LearnMore_1 
+{ 
+	 left: 347px; 
+	 top: 980px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:81;
+} 
+
+ #copy4 
+{ 
+	 left: 472px; 
+	 top: 982px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 7px;
+	 z-index:82;
+} 
+
+ #break_0 
+{ 
+	 left: 336px; 
+	 top: 563px; 
+	 position: absolute; 
+	 width: 929px;
+	 height: 8px;
+	 z-index:83;
+} 
+
+ #shadow 
+{ 
+	 left: 365px; 
+	 top: 500px; 
+	 position: absolute; 
+	 width: 871px;
+	 height: 14px;
+	 z-index:84;
+} 
+
+ #Layer10 
+{ 
+	 left: 0px; 
+	 top: 137px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 335px;
+	 z-index:85;
+} 
+
+ #glow 
+{ 
+	 left: 487px; 
+	 top: 137px; 
+	 position: absolute; 
+	 width: 841px;
+	 height: 273px;
+	 z-index:86;
+} 
+
+ #Shape1 
+{ 
+	 left: 328px; 
+	 top: 157px; 
+	 position: absolute; 
+	 width: 943px;
+	 height: 345px;
+	 z-index:87;
+} 
+
+ #Layer5 
+{ 
+	 left: 328px; 
+	 top: 157px; 
+	 position: absolute; 
+	 width: 943px;
+	 height: 345px;
+	 z-index:88;
+} 
+
+ #Loremipsumdolorsitam_0 
+{ 
+	 left: 454px; 
+	 top: 523px; 
+	 position: absolute; 
+	 width: 690px;
+	 height: 25px;
+	 z-index:89;
+} 
+
+ #Layer27 
+{ 
+	 left: 392px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:90;
+} 
+
+ #Layer27copy2 
+{ 
+	 left: 413px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:91;
+} 
+
+ #Layer27copy3 
+{ 
+	 left: 434px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:92;
+} 
+
+ #Layer27copy 
+{ 
+	 left: 371px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:93;
+} 
+
+ #Layer27copy4 
+{ 
+	 left: 350px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:94;
+} 
+
+ #Layer28 
+{ 
+	 left: 353px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:95;
+} 
+
+ #Layer28copy 
+{ 
+	 left: 374px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:96;
+} 
+
+ #Layer28copy2 
+{ 
+	 left: 395px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:97;
+} 
+
+ #Layer28copy3 
+{ 
+	 left: 416px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:98;
+} 
+
+ #Layer28copy4 
+{ 
+	 left: 437px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:99;
+} 
+
+ #POLO360 
+{ 
+	 left: 425px; 
+	 top: 48px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 33px;
+	 z-index:100;
+} 
+
+ #MYKINDOFBUSINESSBLOG 
+{ 
+	 left: 425px; 
+	 top: 86px; 
+	 position: absolute; 
+	 width: 205px;
+	 height: 10px;
+	 z-index:101;
+} 
+
+ #HOME 
+{ 
+	 left: 750px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 10px;
+	 z-index:102;
+} 
+
+ #PRODUCTS 
+{ 
+	 left: 835px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 10px;
+	 z-index:103;
+} 
+
+ #SERVICES 
+{ 
+	 left: 962px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 10px;
+	 z-index:104;
+} 
+
+ #BLOG 
+{ 
+	 left: 1059px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 10px;
+	 z-index:105;
+} 
+
+ #CONTACT 
+{ 
+	 left: 1172px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 10px;
+	 z-index:106;
+} 
+
+ #Backtohome 
+{ 
+	 left: 750px; 
+	 top: 74px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 10px;
+	 z-index:107;
+} 
+
+ #Whatwehaveforyou 
+{ 
+	 left: 836px; 
+	 top: 74px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 12px;
+	 z-index:108;
+} 
+
+ #Thingswedo 
+{ 
+	 left: 963px; 
+	 top: 74px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 12px;
+	 z-index:109;
+} 
+
+ #Followourupdates 
+{ 
+	 left: 1061px; 
+	 top: 74px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 12px;
+	 z-index:110;
+} 
+
+ #Waystoreachus 
+{ 
+	 left: 1174px; 
+	 top: 74px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 12px;
+	 z-index:111;
+} 
+
+ #copy4_0 
+{ 
+	 left: 739px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 425px;
+	 height: 34px;
+	 z-index:112;
+} 
+
+ #Layer31 
+{ 
+	 left: 426px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 205px;
+	 height: 16px;
+	 z-index:113;
+} 
+
+ #Shape4copy2 
+{ 
+	 left: 345px; 
+	 top: 37px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 76px;
+	 z-index:114;
+} 
+
+ #Layer30 
+{ 
+	 left: 346px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 44px;
+	 z-index:115;
+} 
